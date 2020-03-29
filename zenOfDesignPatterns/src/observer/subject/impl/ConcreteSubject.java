@@ -2,10 +2,10 @@
  * @Company Mister24.com Inc.
  * @Copyright Copyright (c) 2016-2020 All Rights Reserved.
  */
-package observerPattern.subject.impl;
+package observer.subject.impl;
 
-import observerPattern.observer.Observer;
-import observerPattern.subject.Subject;
+import observer.observer.Observer;
+import observer.subject.Subject;
 
 import java.util.ArrayList;
 import java.util.List;

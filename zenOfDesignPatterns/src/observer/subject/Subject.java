@@ -2,9 +2,9 @@
  * @Company Mister24.com Inc.
  * @Copyright Copyright (c) 2016-2020 All Rights Reserved.
  */
-package observerPattern.subject;
+package observer.subject;
 
-import observerPattern.observer.Observer;
+import observer.observer.Observer;
 
 /**
  * 被观察者

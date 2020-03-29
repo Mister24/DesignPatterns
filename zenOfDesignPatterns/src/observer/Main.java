@@ -2,12 +2,12 @@
  * @Company Mister24.com Inc.
  * @Copyright Copyright (c) 2016-2020 All Rights Reserved.
  */
-package observerPattern;
+package observer;
 
-import observerPattern.observer.Observer;
-import observerPattern.observer.impl.ConcreteObserver;
-import observerPattern.subject.Subject;
-import observerPattern.subject.impl.ConcreteSubject;
+import observer.observer.Observer;
+import observer.observer.impl.ConcreteObserver;
+import observer.subject.Subject;
+import observer.subject.impl.ConcreteSubject;
 
 /**
  * @author mr.24

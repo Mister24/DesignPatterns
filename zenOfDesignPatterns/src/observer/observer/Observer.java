@@ -2,7 +2,7 @@
  * @Company Mister24.com Inc.
  * @Copyright Copyright (c) 2016-2020 All Rights Reserved.
  */
-package observerPattern.observer;
+package observer.observer;
 
 /**
  * 观察者接口
